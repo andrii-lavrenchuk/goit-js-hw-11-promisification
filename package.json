@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11-color-switch/",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-promisification/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/andrii-lavrenchuk/goit-js-hw-11-promisification/issues"
   },
-  "homepage": "https://github.com/andrii-lavrenchuk/goit-js-hw-11-promisification#readme",
+  "homepage": "https://github.com/andrii-lavrenchuk/goit-js-hw-11-promisification",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-nuke-dist": "^1.0.1"
