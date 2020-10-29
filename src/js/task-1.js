@@ -1,4 +1,3 @@
-console.log('task1');
 const delay = ms => {
   return new Promise(resolve => {
     setTimeout(() => {
